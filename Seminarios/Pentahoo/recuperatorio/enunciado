@@ -1,0 +1,26 @@
+Realizar 3 transformaciones:
+DIMENSIONES:
+1. Cargar en el DW el archivo provincias.sql
+2. Cargar en Pentaho el archivo CIUDADES.xls
+3. Eliminar duplicaciones de filas
+4. Buscar el nombre de la provincia en el DW, conservar la csProvincia y eliminar el nombre de la misma.
+5. Cargar en DW con el nombre dimLocalidad y clave subrogada csLocalidad, y los campos csProv, departamento y sector_nombre.
+6. Cargar motivo_desuso y uso_suelo, evitar duplicación de fila y guardar en DW con el nombre dimMotivo y dimUso, claves subrocadas csMotivo y csUso respectivamente.
+
+NORMALIZA DW:
+7. Cargar DATOS.csv
+8. Obtener la csLocalidad de la dimLocalidad mediante el uso de la columna "sector_nombre"
+9. De igual manera que en el punto anterior obtener csUso y csMotivo de las columnas "uso_suelo_predominante" y "motivo_sup_desuso".
+10.Eliminar columnas "sector_nombre", "uso_suelo_predominante", "motivo_sup_desuso", "agua_produccion" y "agua_consumo_humano"
+11.Guardar la tabla de hechos en Sql con el nombre hechosNormalizados, renombreando la columna "4g" a "Mobil" y en un archivo excel denominado (apellido)-DW.xls
+CUBO:
+12. Leer el DW desde el servidor SQL
+13. Obtener los campos "motivo_sup_desuso" y "uso_suelo_predominante" de las dimensiones guardadas en el DW.
+14. Obtener los campos "departamento", "sector_nombre" y "csProv" de dimLocalidad.
+15. Obtener el campo "provincia" de dimProv a travez de "csProv".
+17. Eliminar todas las claves subrogadas.
+18. Concatenar "departamento" y "sector_nombre" con " :: " en medio y colocarlo en una nueva columna denominada "Ciudad"
+19. Eliminar "departamento" y "sector_nombre".
+20. Exportar a un archivo Excel denominado (apellido)-CUBO.xls.
+
+ENVIAR los 2 XLS y los 3 (apellido)-[dimension/dw/cubo].tkr

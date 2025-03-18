@@ -1,0 +1,9 @@
+{ "users": [
+    { "userId": "1", "surname":"Encargado", "name": "E", "email":"encargado@mail.com", "active": "1" },
+    { "userId": "2", "surname":"Repositor", "name": "R", "email":"repositor@mail.com", "active": "0"},
+    { "userId": "3", "surname":"Vendedor", "name": "V", "email":"vendedor@mail.com", "active": "1" },
+    { "userId": "4", "surname":"Cajero", "name": "C", "email":"cajero@mail.com", "active": "1" }
+]
+}
+
+

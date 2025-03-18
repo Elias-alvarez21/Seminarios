@@ -1,0 +1,396 @@
+id;sector_nombre;uso_suelo_predominante;sup_total_has_sector;superficie_relevada;sup_parcela_pp;sup_up_declarada_pp;sup_campo_declarada;sup_invernadero_declarada;motivo_sup_desuso;agua_produccion;agua_consumo_humano;4g;reparto_garrafa;tv_cable;tv_sat;reparto_leña
+1;Los Hornos/Olmos;Pequeña producción rural;1.815,89;1.201,15;468,43;188,9;46,45%;42,34%;Falta de capital;Agua de pozo;Agua de pozo;91,18%;55,88%;13,24%;86,76%;11,76%
+2;Hudson;Pequeña producción rural;263,70;244,89;224,60;109,5;73,97%;23,74%;Tierra no apta;Agua de pozo;Agua de pozo;88,89%;22,22%;0,00%;66,67%;11,11%
+3;La Capilla 2;Pequeña producción rural;680,27;549,56;323,28;21,25;67,29%;27,40%;Barbecho;Agua de pozo;Agua de pozo;64,29%;35,71%;21,43%;92,86%;0,00%
+4;Arturo Seguí;Rural que no pertenece al sector;1.530,80;1.364,97;381,70;142,5;45,96%;41,90%;Barbecho;Agua de pozo;Agua de pozo;38,78%;28,57%;57,14%;89,80%;4,08%
+5;Abasto 1;Pequeña producción rural;1.769,01;1.091,77;486,73;304,8;56,20%;34,75%;Falta de capital;Agua de pozo;Agua de pozo;11,04%;64,29%;7,79%;70,13%;6,49%
+6;Poblet 3;Pequeña producción rural;584,27;556,89;551,67;3;50,00%;50,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;100,00%;0,00%;100,00%;0,00%
+7;Poblet 2;Pequeña producción rural;2.146,76;2.146,76;805,89;41;42,44%;45,49%;Falta de capital;Agua de pozo;Agua de pozo;14,29%;57,14%;14,29%;42,86%;0,00%
+8;Poblet 1;Sin datos;2.255,41;602,16;434,93;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+9;Romero;Rural que no pertenece al sector;1.908,76;1.346,33;344,84;177,8;63,89%;28,97%;Barbecho;Agua de pozo;Agua de pozo;100,00%;7,89%;57,89%;97,37%;0,00%
+10;City bell;Rural que no pertenece al sector;1.051,05;766,63;229,13;168,55;49,69%;3,71%;Falta de capital;Agua de pozo;Agua de pozo;18,92%;35,14%;35,14%;37,84%;5,41%
+11;Olmos y Poblet;Rural que no pertenece al sector;2.323,84;1.942,99;850,59;163,25;35,38%;55,77%;Falta de capital;Agua de pozo;Agua de pozo;75,51%;46,94%;14,29%;83,67%;0,00%
+12;Etcheverry 2;Pequeña producción rural;1.760,22;1.395,89;1.029,88;260;43,23%;40,46%;Falta de capital;Agua de pozo;Agua de pozo;91,67%;54,17%;8,33%;84,72%;2,78%
+13;Abasto 2;Pequeña producción rural;1.292,67;1.086,79;778,05;486,1;48,24%;45,74%;Falta de capital;Agua de pozo;Agua de pozo;56,55%;35,12%;11,90%;82,14%;3,57%
+14;Olmos 1;Pequeña producción rural;1.063,90;822,61;575,11;114,75;44,66%;32,38%;Falta de capital;Agua de pozo;Agua de pozo;33,87%;19,35%;24,19%;83,87%;3,23%
+15;Olmos 2;Pequeña producción rural;2.025,20;1.855,72;1.258,87;274,9;30,88%;34,28%;Falta de capital;Agua de pozo;Agua de pozo;73,33%;42,50%;20,83%;76,67%;5,83%
+16;El Pato 2;Pequeña producción rural;298,71;280,67;177,45;18,5;22,43%;12,16%;Barbecho;Agua de pozo;Agua de pozo;16,67%;0,00%;0,00%;50,00%;0,00%
+17;El Peligro 2;Rural que no pertenece al sector;1.254,33;1.061,65;390,53;206,95;56,40%;27,36%;Falta de capital;Agua de pozo;Agua de pozo;35,29%;73,53%;11,76%;61,76%;1,47%
+18;La Capilla 3;Rural que no pertenece al sector;1.909,49;1.164,56;391,67;58,6;55,46%;26,79%;Falta de capital;Agua de pozo;Agua de pozo;47,83%;60,87%;21,74%;78,26%;0,00%
+19;Arana;Pequeña producción rural;1.783,91;1.669,32;755,38;86,5;69,08%;20,81%;Falta de capital;Agua de pozo;Agua de pozo;75,00%;40,00%;5,00%;85,00%;5,00%
+20;San Luis;Pequeña producción rural;1.175,63;916,84;457,94;82,9;58,20%;14,96%;Falta de capital;Agua de pozo;Agua de pozo;90,20%;47,06%;17,65%;96,08%;1,96%
+21;El Peligro 1;Pequeña producción rural;999,95;844,50;379,54;218,5;30,98%;28,75%;Barbecho;Agua de pozo;Agua bidones;55,93%;30,51%;11,86%;67,80%;3,39%
+22;El Pato 1;Pequeña producción rural;881,64;749,54;345,69;133,7;46,00%;40,65%;Barbecho;Agua de pozo;Agua de pozo;60,00%;24,44%;13,33%;82,22%;0,00%
+23;Pereyra 1;Pequeña producción rural;948,75;884,26;881,87;304,25;76,53%;16,12%;Barbecho;Agua de pozo;Agua de pozo;75,00%;16,67%;8,33%;58,33%;16,67%
+24;Etcheverry 1;Pequeña producción rural;1.355,07;1.126,39;422,56;125,2;44,69%;45,33%;Falta de capital;Agua de pozo;Agua de pozo;88,10%;23,81%;9,52%;92,86%;0,00%
+25;Villa Elvira;Rural que no pertenece al sector;1.537,93;1.315,44;205,40;65,1;71,58%;4,15%;Falta de capital;Agua de pozo;Agua de pozo;80,00%;53,33%;6,67%;86,67%;13,33%
+26;Pereyra 2;Pequeña producción rural;330,42;306,95;306,95;109;85,05%;10,00%;Barbecho;Agua de pozo;Agua de pozo;100,00%;0,00%;0,00%;100,00%;0,00%
+27;La Capilla 1;Pequeña producción rural;856,59;728,01;376,70;135,63;60,43%;17,52%;Falta de capital;Agua de pozo;Agua de pozo;97,06%;52,94%;8,82%;76,47%;5,88%
+28;Villa Elisa;Pequeña producción rural;234,22;176,65;112,72;33;41,21%;33,34%;Falta de capital;Agua de pozo;Agua de pozo;80,00%;40,00%;40,00%;100,00%;20,00%
+29;La Aurelia;Rural que no pertenece al sector;1.404,16;1.285,95;45,01;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;33,33%;66,67%;0,00%
+30;Santa Paula 1;Pequeña producción rural;1.349,27;1.111,55;518,07;97;68,04%;11,86%;Falta de capital;Agua de pozo;Agua de pozo;42,11%;15,79%;0,00%;78,95%;10,53%
+31;Batan 1;Rural que no pertenece al sector;1.546,17;1.531,77;405,68;141;93,62%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;72,73%;45,45%;0,00%;81,82%;45,45%
+32;El Colmenar;Pequeña producción rural;1.155,80;948,52;563,80;291,5;64,15%;6,87%;Falta de capital;Agua de pozo;Agua de pozo;40,00%;60,00%;15,00%;85,00%;60,00%
+34;Valle Hermoso;Rural sin producción;2.292,31;1.887,32;460,38;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+35;Parque Palermo;Pequeña producción rural;1.718,25;1.313,42;552,53;96;60,10%;0,57%;Falta de capital;Agua de pozo;Agua de pozo;19,79%;44,79%;7,29%;96,88%;38,54%
+36;Colonia de Barragan;Rural que no pertenece al sector;633,56;565,97;186,28;81;38,27%;29,11%;Falta de capital;Agua de pozo;Agua de pozo;56,25%;18,75%;0,00%;93,75%;0,00%
+37;Batan 2;Pequeña producción rural;481,43;439,40;173,55;97;91,75%;1,34%;Falta de capital;Agua de pozo;Agua de pozo;68,18%;36,36%;9,09%;86,36%;18,18%
+38;El Boqueron;Pequeña producción rural;1.481,77;1.246,73;473,24;502,5;73,43%;3,89%;Falta de capital;Agua de pozo;Agua de pozo;65,00%;32,50%;12,50%;75,00%;17,50%
+39;El Boqueron Oeste;Rural sin producción;620,98;571,57;40,31;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;100,00%;100,00%;100,00%;0,00%
+40;El Coyunco;Pequeña producción rural;1.212,52;983,31;695,97;116,15;84,37%;11,19%;Tierra no apta;Agua de pozo;Agua de pozo;50,63%;49,37%;45,57%;79,75%;15,19%
+42;Sierra de los Padres;Rural que no pertenece al sector;1.562,72;1.255,62;236,55;117;77,78%;9,38%;Falta de capital;Agua de pozo;Agua de pozo;50,00%;21,88%;0,00%;81,25%;6,25%
+44;Laguna de los Padres;Pequeña producción rural;1.426,28;921,84;446,13;311;70,74%;3,78%;Falta de capital;Agua de pozo;Agua de pozo;58,70%;43,48%;0,00%;73,91%;34,78%
+45;Santa Paula 2;Pequeña producción rural;1.030,15;954,03;562,82;261;69,73%;10,49%;Falta de capital;Agua de pozo;Agua de pozo;76,67%;16,67%;6,67%;96,67%;10,00%
+46;Santa Paula 3;Pequeña producción rural;1.514,38;966,67;546,84;157;59,24%;14,66%;Falta de capital;Agua de pozo;Agua de pozo;70,00%;15,00%;15,00%;50,00%;5,00%
+47;San Francisco;Rural que no pertenece al sector;1.425,79;1.377,65;63,21;1;0,00%;100,00%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;100,00%;0,00%
+48;Al sur de Camet;Rural que no pertenece al sector;1.269,79;1.144,49;88,55;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+50;Ruta 25;Pequeña producción rural;1.428,46;1.172,63;755,50;332,7;72,96%;2,25%;Falta de capital;Agua de pozo;Agua de pozo;100,00%;82,35%;2,94%;94,12%;1,47%
+51;Cuartel quinto;Pequeña producción rural;427,13;381,41;177,07;59,25;64,56%;11,26%;Falta de capital;Agua de pozo;Agua de pozo;100,00%;7,69%;15,38%;100,00%;0,00%
+52;Ruta 5;Pequeña producción rural;233,88;212,09;173,68;67,5;89,78%;5,77%;Falta de capital;Agua de pozo;Agua de pozo;76,92%;53,85%;7,69%;61,54%;38,46%
+53;General Rodríguez;Rural que no pertenece al sector;1.422,65;1.181,30;448,42;204,249;94,74%;3,34%;Falta de capital;Agua de pozo;Agua de pozo;92,19%;81,25%;20,31%;96,88%;64,06%
+54;Torres;Rural que no pertenece al sector;357,68;330,22;32,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;50,00%;0,00%;25,00%;0,00%
+55;Open Door;Rural que no pertenece al sector;533,13;478,14;151,34;15;70,00%;1,00%;Falta de capital;Agua de pozo;Agua de pozo;60,00%;20,00%;20,00%;20,00%;20,00%
+56;Zelaya;Pequeña producción rural;159,99;106,47;73,38;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;60,00%;40,00%;40,00%;60,00%;0,00%
+57;Robles;Pequeña producción rural;956,65;799,26;427,29;65,5;74,35%;7,77%;Falta de capital;Agua de pozo;Agua de pozo;60,00%;20,00%;12,00%;56,00%;12,00%
+58;Loma verde;Pequeña producción rural;894,70;758,41;294,38;135,3;76,02%;12,22%;Falta de capital;Agua de pozo;Agua de pozo;80,56%;52,78%;11,11%;91,67%;11,11%
+59;Escobar;Pequeña producción rural;840,26;687,49;275,12;190;89,55%;2,13%;Falta de capital;Agua de pozo;Agua bidones;76,19%;52,38%;9,52%;85,71%;14,29%
+62;Cecam;Rural que no pertenece al sector;1.643,00;1.621,44;224,87;1;100,00%;0,00%;Barbecho;Agua de canal;Agua de aljibe;100,00%;0,00%;0,00%;100,00%;0,00%
+65;Parque Industrial 2;Pequeña producción rural;206,82;185,67;97,90;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;20,00%;0,00%;60,00%;0,00%
+66;Olivares;Sin datos;443,23;130,57;113,52;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+67;Parque Industrial 1;Pequeña producción rural;415,38;396,41;385,54;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;37,50%;0,00%
+68;Rio Segundo Norte 1;Pequeña producción rural;193,19;155,25;155,25;29;89,66%;0,00%;Tierra no apta;Agua de pozo;Otro;0,00%;0,00%;0,00%;75,00%;0,00%
+69;Quinta Vettori;Rural que no pertenece al sector;228,47;205,25;46,64;10;100,00%;0,00%;Barbecho;Agua de riego;Agua de red;100,00%;0,00%;0,00%;100,00%;0,00%
+70;Los Chañaritos;Rural que no pertenece al sector;2.230,04;1.844,17;532,69;50;68,00%;0,00%;Falta de capital;Agua de riego;Agua de red;0,00%;26,67%;0,00%;60,00%;80,00%
+71;Rio Segundo Norte 2;Rural que no pertenece al sector;759,09;650,73;141,93;54;53,70%;0,15%;Barbecho;Agua de pozo;Agua de pozo;80,00%;0,00%;0,00%;60,00%;0,00%
+72;Las Playas;Rural sin producción;2.284,73;1.617,25;549,75;75;97,33%;0,00%;Falta de capital;Agua de riego;Agua de red;36,67%;16,67%;0,00%;56,67%;6,67%
+73;El Brete;Pequeña producción rural;2.229,36;1.847,91;974,90;98;86,73%;0,00%;Falta de capital;Agua de riego;Agua de red;3,13%;34,38%;0,00%;40,63%;15,63%
+74;El Tropiezo;Rural que no pertenece al sector;2.287,72;1.905,45;327,16;70,4;51,35%;0,00%;Falta de capital;Agua de riego;Agua de red;0,00%;31,58%;0,00%;47,37%;31,58%
+75;Guinazu;Rural sin producción;556,71;425,63;120,98;43,98;88,04%;0,57%;Tierra no apta;Agua de riego;Agua de red;90,91%;36,36%;18,18%;72,73%;9,09%
+76;Piedra Pintada;Pequeña producción rural;294,62;255,61;124,07;43,15;100,00%;0,00%;Falta de capital;Agua de riego;Agua de red;0,00%;0,00%;0,00%;26,09%;0,00%
+77;Los Guindos;Rural que no pertenece al sector;909,66;693,00;293,25;60,5;81,82%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;12,50%;0,00%;12,50%;100,00%;0,00%
+78;San Jose Sur;Rural que no pertenece al sector;1.907,66;1.617,38;347,18;140,05;87,47%;0,00%;Falta de capital;Agua de riego;Agua de red;47,06%;50,98%;5,88%;49,02%;3,92%
+79;El Gateado;Rural que no pertenece al sector;1.765,77;1.563,80;469,96;222,624;95,67%;0,56%;Falta de capital;Agua de riego;Agua de red;78,00%;38,00%;40,00%;88,00%;6,00%
+80;La Carbonada;Rural que no pertenece al sector;1.901,47;1.774,48;0,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+81;307 Oeste;Pequeña producción rural;718,56;599,04;367,03;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;20,00%;0,00%
+83;Villa Esquiu;Pequeña producción rural;1.842,72;1.457,42;712,38;127,5;74,90%;1,88%;Falta de capital;Agua de riego;Agua de red;14,93%;73,13%;8,96%;53,73%;25,37%
+85;Azafran;Rural que no pertenece al sector;347,23;268,48;106,58;11,5;47,83%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;25,00%;0,00%;25,00%;0,00%;0,00%
+86;307 Este;Rural que no pertenece al sector;1.131,19;979,42;162,12;37;59,46%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;0,00%;77,78%;0,00%
+88;Los Olivos;Pequeña producción rural;675,94;583,70;353,95;2;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;20,00%;60,00%;0,00%
+89;Rio Primero;Rural que no pertenece al sector;994,26;841,49;367,36;82;100,00%;0,00%;Barbecho;Agua de pozo;Agua de pozo;63,64%;27,27%;0,00%;36,36%;0,00%
+90;Media Naranja;Pequeña producción rural;2.263,17;1.919,54;1.232,46;39;92,31%;0,00%;Falta de capital;Agua de riego;Agua de red;0,00%;7,41%;0,00%;18,52%;3,70%
+91;San Pedro;Rural que no pertenece al sector;1.447,29;1.257,24;179,29;96,6;88,77%;0,00%;Falta de capital;Agua de riego;Agua de red;24,39%;41,46%;31,71%;26,83%;29,27%
+93;San Carlos;Rural que no pertenece al sector;1.071,47;849,03;214,64;118,2;99,15%;0,00%;Barbecho;Agua de riego;Agua de red;68,42%;15,79%;57,89%;63,16%;0,00%
+94;Camino 60 cuadras;Rural que no pertenece al sector;2.022,93;1.812,13;141,29;136;94,12%;0,00%;Barbecho;Agua de riego;Agua de red;88,89%;55,56%;38,89%;58,33%;0,00%
+95;Villa Posse;Rural que no pertenece al sector;591,23;563,42;55,87;17;63,53%;0,58%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;50,00%;0,00%;100,00%;50,00%
+96;Ferreyra;Rural que no pertenece al sector;1.846,89;1.727,54;310,39;1,25;80,00%;0,00%;Tierra no apta;Agua de riego;Agua de red;100,00%;100,00%;0,00%;0,00%;0,00%
+97;Juarez Celman;Rural que no pertenece al sector;1.587,40;1.390,28;197,98;99,346;96,63%;0,13%;Falta de capital;Agua de riego;Agua de red;55,56%;66,67%;44,44%;100,00%;0,00%
+98;San Jose Norte;Pequeña producción rural;1.751,11;1.514,92;717,30;338,35;82,77%;0,00%;Falta de capital;Agua de riego;Agua de red;14,04%;20,18%;14,91%;34,21%;13,16%
+99;Las Encrucijadas 2;Rural que no pertenece al sector;931,54;849,50;87,82;18;100,00%;0,00%;Falta de capital;Agua de riego;Agua de red;42,86%;42,86%;0,00%;57,14%;0,00%
+100;Hipodromo;Rural que no pertenece al sector;262,71;200,96;23,30;16;93,75%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;25,00%;50,00%;25,00%;25,00%
+101;Las Encrucijadas 1;Rural que no pertenece al sector;344,99;295,13;2,02;0,5;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;100,00%;100,00%;0,00%
+103;Toledo Periurbano;Rural que no pertenece al sector;1.420,46;882,85;196,01;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+104;Pilar;Pequeña producción rural;245,85;229,53;145,50;64,8;76,00%;1,57%;Falta de capital;Agua de pozo;Agua de pozo;66,67%;20,00%;6,67%;40,00%;0,00%
+105;Colonia Bombal 1;Pequeña producción rural;827,16;582,32;535,13;75;88,00%;0,00%;Tierra no apta;Agua de pozo;Agua de red;20,59%;11,76%;2,94%;17,65%;0,00%
+106;Beltran 1;Pequeña producción rural;1.482,52;932,06;651,34;235;92,77%;16,60%;Falta de capital;Agua de pozo;Agua de red;56,25%;46,88%;43,75%;28,13%;28,13%
+108;Cordon del Plata 2;Pequeña producción rural;1.311,52;1.239,56;642,25;27;100,00%;0,00%;Falta de capital;Agua de pozo;Agua comprada;72,73%;9,09%;45,45%;45,45%;0,00%
+109;Cordon del Plata 1;Pequeña producción rural;1.234,18;1.186,47;648,55;20;100,00%;0,00%;Barbecho;Agua de pozo;Agua de pozo;0,00%;12,50%;37,50%;25,00%;0,00%
+110;Furno 1;Rural que no pertenece al sector;830,24;773,48;153,74;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;50,00%;50,00%;100,00%;0,00%
+112;Furno 2;Rural que no pertenece al sector;2.003,06;1.820,24;534,02;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;0,00%;0,00%
+113;Dubois 2;Rural que no pertenece al sector;1.883,89;1.681,95;226,27;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;0,00%;50,00%;50,00%;0,00%
+114;El Zampalito;Rural que no pertenece al sector;1.613,91;1.481,97;542,82;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;0,00%;37,50%;37,50%;0,00%
+115;Sergi;Rural que no pertenece al sector;582,13;534,02;77,68;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;0,00%;0,00%;50,00%;0,00%
+116;La Arboleda 1;Rural que no pertenece al sector;1.104,32;906,91;423,75;68;95,59%;0,00%;Tierra no apta;Agua de riego;Agua de red;57,69%;0,00%;11,54%;26,92%;0,00%
+117;Campo Vidal;Rural que no pertenece al sector;1.230,62;1.037,72;402,26;31;67,74%;0,00%;Falta de capital;Agua de pozo;Agua de red;16,67%;0,00%;16,67%;66,67%;0,00%
+118;El Zampal;Rural que no pertenece al sector;1.662,26;1.444,79;482,92;38,5;79,22%;2,60%;Falta de capital;Agua de pozo;Agua de red;68,75%;31,25%;18,75%;68,75%;12,50%
+119;Villa Bastia 1;Rural que no pertenece al sector;566,89;479,54;159,77;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;25,00%;0,00%;75,00%;0,00%;0,00%
+120;Dubois 1;Rural que no pertenece al sector;1.898,60;1.700,66;207,44;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;100,00%;0,00%;0,00%
+121;San Roque;Pequeña producción rural;837,45;685,49;322,71;252,3;72,77%;0,00%;Falta de capital;Agua de riego;Agua de red;97,67%;20,93%;36,05%;89,53%;6,98%
+122;Santa Elena 2;Rural que no pertenece al sector;1.274,68;1.217,70;359,10;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;33,33%;33,33%;66,67%;0,00%
+123;Colonia Bombal 2;Sin datos;1.436,25;460,24;338,27;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+124;Corralitos;Pequeña producción rural;992,35;779,65;615,98;555,55;92,56%;0,18%;Falta de capital;Agua de riego;Agua de pozo;89,73%;96,76%;18,92%;85,95%;83,24%
+125;Rodeo de la Cruz;Pequeña producción rural;1.334,74;1.071,69;900,76;862,7;81,55%;0,01%;Falta de capital;Agua de pozo;Agua de pozo;91,13%;80,91%;38,17%;85,48%;78,49%
+126;Colonia Bombal 3;Pequeña producción rural;1.630,30;1.324,15;926,56;887,674;97,18%;10,07%;Falta de capital;Agua de pozo;Agua de red;60,21%;16,23%;34,55%;52,36%;6,28%
+127;Beltran 2;Pequeña producción rural;1.126,74;978,63;592,20;490;96,73%;19,19%;Falta de capital;Agua de pozo;Agua de red;75,71%;27,14%;51,43%;38,57%;12,86%
+128;Beltran 3;Pequeña producción rural;566,33;514,17;203,87;22;100,00%;72,73%;Barbecho;Agua de pozo;Agua de pozo;75,00%;75,00%;25,00%;25,00%;25,00%
+129;Colonia Bombal 4;Pequeña producción rural;602,07;541,32;438,22;361;80,36%;0,08%;Falta de capital;Agua de pozo;Agua de red;51,72%;97,41%;58,62%;83,62%;97,41%
+130;Colonia Bombal 5;Pequeña producción rural;725,97;461,97;310,49;186,3;86,04%;0,02%;Tierra no apta;Agua de pozo;Agua de red;0,00%;4,17%;4,17%;16,67%;0,00%
+131;Colonia Bombal 6;Pequeña producción rural;1.513,63;945,20;651,02;289;90,31%;0,00%;Tierra no apta;Agua de pozo;Agua de red;0,00%;4,11%;1,37%;30,14%;0,00%
+132;Junin Centro 3;Pequeña producción rural;1.413,13;1.285,12;563,03;38;81,58%;18,42%;Falta de capital;Agua de riego;Agua de red;100,00%;57,14%;35,71%;28,57%;0,00%
+134;Andrade;Sin datos;1.218,86;417,39;417,39;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+135;Los Arboles;Pequeña producción rural;1.853,12;1.698,50;1.060,00;346;93,35%;24,31%;Falta de capital;Agua de pozo;Agua de pozo;24,29%;18,57%;20,00%;24,29%;4,29%
+136;Los Barriales 1;Pequeña producción rural;328,99;292,48;158,76;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;100,00%;0,00%;0,00%;100,00%
+137;Rodriguez Peña;Rural que no pertenece al sector;1.216,16;1.135,39;236,58;12;58,33%;0,00%;Barbecho;Agua de riego;Agua de red;100,00%;0,00%;100,00%;0,00%;0,00%
+138;Los Barriales 2;Rural que no pertenece al sector;936,44;902,51;85,45;33;100,00%;0,00%;Barbecho;Agua de riego;Agua de red;100,00%;33,33%;33,33%;0,00%;33,33%
+139;Junin Centro 2;Rural que no pertenece al sector;1.012,22;821,97;147,22;17;47,06%;0,00%;Barbecho;Agua de riego;Agua de red;100,00%;11,11%;0,00%;66,67%;0,00%
+140;Medrano 1;Rural que no pertenece al sector;1.314,81;1.264,94;347,30;24,5;79,59%;0,00%;Tierra no apta;Agua de pozo;Agua de red;100,00%;16,67%;16,67%;58,33%;0,00%
+141;La Arboleda 2;Pequeña producción rural;1.215,94;1.121,16;584,59;37;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;57,14%;0,00%;42,86%;71,43%;0,00%
+142;Villa Bastia 2;Pequeña producción rural;1.481,67;1.320,34;635,33;12;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de red;90,91%;0,00%;0,00%;81,82%;0,00%
+143;Santa Blanca;Pequeña producción rural;978,52;848,75;667,39;465,06;70,09%;0,12%;Falta de capital;Agua de pozo;Agua de red;52,15%;8,59%;23,31%;58,90%;1,23%
+146;Puente de Hierro;Rural sin producción;297,20;211,62;78,68;84,8;60,97%;0,00%;Falta de capital;Agua de riego;Agua de red;38,10%;0,00%;0,00%;0,00%;0,00%
+147;Los Corralitos;Pequeña producción rural;1.739,97;1.528,69;1.103,01;201,6;53,72%;0,12%;Falta de capital;Agua de riego;Agua de red;54,41%;23,53%;14,71%;41,18%;17,65%
+148;Colonia Segovia 1;Pequeña producción rural;321,87;254,82;92,54;159,079;66,51%;0,00%;Falta de capital;Agua de riego;Agua de red;67,74%;0,00%;16,13%;54,84%;0,00%
+149;Junin Centro 1;Rural que no pertenece al sector;1.633,16;1.483,49;311,65;27;100,00%;0,00%;Falta de capital;Agua de riego;Agua de red;80,00%;80,00%;40,00%;20,00%;0,00%
+152;Los Barriales 3;Rural que no pertenece al sector;1.581,38;1.468,84;114,89;27;100,00%;0,00%;Barbecho;Agua de pozo;Agua de pozo;100,00%;60,00%;20,00%;0,00%;40,00%
+153;Palmira;Pequeña producción rural;256,91;202,73;154,83;65;98,46%;0,00%;Falta de capital;Agua de pozo;Agua de red;5,56%;22,22%;11,11%;11,11%;0,00%
+154;Isla Grande;Rural que no pertenece al sector;1.481,42;1.398,04;369,15;55;100,00%;0,00%;Barbecho;Agua de pozo;Agua de red;93,33%;33,33%;6,67%;6,67%;20,00%
+155;Santa Elena 1;Rural que no pertenece al sector;1.834,31;1.392,25;174,16;26,5;72,64%;0,00%;Falta de capital;Agua de red;Agua de red;100,00%;22,22%;33,33%;55,56%;0,00%
+156;Medrano 3;Rural que no pertenece al sector;984,65;957,30;83,43;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;0,00%;0,00%
+157;Junin Centro 4;Rural que no pertenece al sector;1.113,18;983,02;177,03;21,6;100,00%;0,00%;Barbecho;Agua de riego;Agua de red;100,00%;18,18%;9,09%;0,00%;18,18%
+158;Beltran 4;Rural que no pertenece al sector;1.044,15;826,18;229,66;192,51;24,47%;0,00%;Falta de capital;Agua de pozo;Agua de red;4,00%;0,00%;0,00%;2,00%;0,00%
+159;El Sauce;Pequeña producción rural;518,39;471,44;282,75;30,8;57,79%;0,00%;Tierra no apta;Agua de riego;Agua de red;90,91%;0,00%;36,36%;54,55%;0,00%
+160;La Carrera;Sin datos;1.725,24;450,39;396,61;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+161;El Peral 1;Sin datos;1.132,35;178,25;7,51;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+162;El Peral 2;Rural que no pertenece al sector;1.512,18;1.395,24;321,79;19;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de red;29,41%;0,00%;11,76%;64,71%;0,00%
+163;La Primavera;Pequeña producción rural;322,55;288,90;204,99;265,97;73,02%;0,00%;Falta de capital;Agua de pozo;Agua de red;14,06%;1,56%;4,69%;3,13%;0,00%
+164;Beltran 5;Rural que no pertenece al sector;117,49;117,49;0,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+165;Beltran 6;Pequeña producción rural;416,66;416,66;232,69;37;81,08%;0,00%;Falta de capital;Agua de red;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+166;Colonia Bombal 7;Pequeña producción rural;193,44;107,40;51,86;52;80,77%;0,00%;Falta de capital;Agua de pozo;Agua de red;0,00%;0,00%;0,00%;6,25%;0,00%
+167;Medrano 2;Rural que no pertenece al sector;1.264,65;1.221,40;242,97;37;77,03%;0,00%;Tierra no apta;Agua de pozo;Agua de red;100,00%;25,00%;12,50%;87,50%;0,00%
+168;Colonia Segovia 2;Pequeña producción rural;1.948,49;1.563,60;542,10;304,3;86,20%;0,33%;Barbecho;Agua de pozo;Agua de red;84,62%;16,48%;37,36%;37,36%;1,10%
+169;Arroyo Seco 3;Rural que no pertenece al sector;144,93;122,05;33,93;8;75,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;100,00%;50,00%;0,00%;0,00%
+171;Villa Gobernador Gálvez;Pequeña producción rural;304,80;269,20;205,98;114,5;92,58%;0,00%;Barbecho;Agua de pozo;Agua de red;84,62%;46,15%;23,08%;42,31%;0,00%
+172;Soldini 3;Rural que no pertenece al sector;327,86;293,20;70,92;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+174;General Lago 2;Rural que no pertenece al sector;1.636,00;1.423,74;17,61;8;50,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;100,00%;100,00%;0,00%;0,00%;0,00%
+176;Fighiera 2;Rural que no pertenece al sector;1.168,14;849,16;69,66;28;67,86%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;16,67%;100,00%;16,67%;0,00%;0,00%
+177;General Lago 3;Rural que no pertenece al sector;69,85;41,37;11,40;6;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;100,00%;100,00%;0,00%;0,00%;0,00%
+178;Soldini 1;Rural que no pertenece al sector;1.161,38;1.063,69;112,13;51;78,43%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;100,00%;62,50%;25,00%;12,50%;0,00%
+179;Alvear 2;Pequeña producción rural;183,21;152,13;106,66;34;94,12%;0,00%;Barbecho;Agua de pozo;Agua de red;85,71%;85,71%;14,29%;0,00%;0,00%
+180;Alvear 1;Rural que no pertenece al sector;1.372,71;1.184,21;110,12;37,5;94,67%;0,00%;Barbecho;Agua de pozo;Agua de pozo;50,00%;87,50%;0,00%;12,50%;0,00%
+181;Arroyo Seco 2;Rural que no pertenece al sector;163,93;152,04;42,17;28;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;100,00%;0,00%;50,00%;0,00%
+182;Arroyo Seco 1;Rural que no pertenece al sector;203,93;169,09;35,49;13;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;100,00%;100,00%;0,00%;50,00%;0,00%
+183;Pueblo Esther 2;Rural que no pertenece al sector;725,16;614,93;33,16;10,5;100,00%;0,00%;Barbecho;Agua de pozo;Agua de pozo;0,00%;100,00%;0,00%;0,00%;50,00%
+184;Pérez 2;Pequeña producción rural;60,27;51,84;36,25;16;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;100,00%;0,00%;25,00%;75,00%;0,00%
+185;Soldini 4;Pequeña producción rural;42,91;36,63;28,71;17;100,00%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;100,00%;66,67%;0,00%;66,67%;0,00%
+186;Soldini 2;Rural que no pertenece al sector;714,42;573,18;7,63;6;100,00%;0,00%;Barbecho;Agua de pozo;Agua de pozo;50,00%;50,00%;0,00%;100,00%;0,00%
+187;Soldini 5;Rural que no pertenece al sector;933,81;788,48;310,86;156,7;84,05%;0,00%;Barbecho;Agua de pozo;Agua de pozo;96,67%;26,67%;20,00%;60,00%;3,33%
+189;Pueblo Esther 1;Pequeña producción rural;224,08;199,26;125,11;95;88,21%;0,01%;Barbecho;Agua de pozo;Agua de pozo;93,75%;81,25%;31,25%;31,25%;6,25%
+190;General Lago 1;Rural que no pertenece al sector;438,00;382,61;176,62;42,5;90,59%;0,00%;Barbecho;Agua de pozo;Agua de pozo;46,15%;84,62%;15,38%;38,46%;7,69%
+191;General Lago 4;Rural que no pertenece al sector;641,07;503,26;53,37;17;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua comprada;33,33%;66,67%;0,00%;0,00%;66,67%
+192;Pérez 4;Pequeña producción rural;141,77;126,96;88,50;35;62,86%;0,01%;Barbecho;Agua de pozo;Agua de pozo;71,43%;85,71%;42,86%;14,29%;0,00%
+193;Pérez 3;Rural que no pertenece al sector;50,85;47,60;19,25;12;62,50%;0,00%;Falta de capital;Agua de pozo;Agua bidones;50,00%;50,00%;100,00%;0,00%;0,00%
+194;Pérez 1;Rural que no pertenece al sector;1.057,31;841,54;26,47;21;61,90%;0,00%;Barbecho;Agua de pozo;Agua de red;20,00%;60,00%;20,00%;0,00%;0,00%
+196;Chacras Ruta 7 1;Rural sin producción;185,71;184,82;44,11;64;100,00%;0,39%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;0,00%;5,88%;0,00%
+197;Chacras Trelew 2;Rural que no pertenece al sector;508,24;478,90;54,75;21,5;100,00%;0,00%;Falta de capital;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;33,33%;0,00%
+198;Chacra Bryn Gwyn y Gaiman Ruta 7;Rural que no pertenece al sector;1.655,64;1.564,58;218,92;183,14;89,88%;1,52%;Tierra no apta;Agua de riego;Agua de red;11,76%;0,00%;2,94%;41,18%;0,00%
+199;28 de Julio 1;Rural que no pertenece al sector;1.454,88;1.443,70;50,96;36,5;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;20,00%;0,00%;0,00%;0,00%;0,00%
+200;Trelew;Rural que no pertenece al sector;572,52;497,76;11,07;6;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;0,00%;0,00%
+201;Treorky 1;Pequeña producción rural;606,72;567,25;263,17;242,5;92,66%;0,75%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;36,84%;0,00%
+202;Treorky 2;Pequeña producción rural;515,50;463,41;203,41;173;97,69%;1,16%;Tierra no apta;Agua de riego;Agua de red;10,87%;0,00%;0,00%;19,57%;0,00%
+203;28 de Julio 2;Rural que no pertenece al sector;1.630,98;1.619,50;62,04;53;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;0,00%;0,00%
+204;28 de Julio 3;Rural que no pertenece al sector;1.319,93;1.304,12;66,97;25;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;20,00%;0,00%;0,00%;0,00%;0,00%
+205;Dolavon 1;Rural que no pertenece al sector;2.108,87;2.108,87;63,46;30;99,33%;0,83%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;50,00%;0,00%
+206;Bethesda;Rural que no pertenece al sector;1.327,24;1.302,08;36,20;33;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;20,00%;40,00%;0,00%
+207;Chacras Pasando Gaiman Nuevo;Rural que no pertenece al sector;1.604,42;1.565,00;27,57;25;84,00%;0,00%;Barbecho;Agua de riego;Agua de red;20,00%;0,00%;0,00%;40,00%;0,00%
+208;Bryn Wyng;Rural que no pertenece al sector;1.121,71;1.078,41;94,70;152;97,04%;0,54%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;0,00%;13,79%;3,45%
+209;Dolavon 2;Rural que no pertenece al sector;1.507,76;1.357,74;98,21;80,5;97,27%;0,31%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;25,00%;0,00%
+210;Chacras la Angostura 1;Rural que no pertenece al sector;1.943,16;1.908,70;92,53;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;50,00%;0,00%
+211;Chacras la Angostura 2;Rural que no pertenece al sector;1.916,15;1.875,33;145,01;98,5;95,43%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;4,76%;19,05%;0,00%
+212;28 de Julio 4;Rural que no pertenece al sector;1.900,46;1.899,21;224,42;100;98,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;5,56%;0,00%;0,00%;0,00%;0,00%
+213;Chacras Setia;Rural que no pertenece al sector;709,70;690,88;89,48;41;82,93%;3,06%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;15,38%;0,00%
+214;Chacras Gaiman;Rural que no pertenece al sector;170,04;167,82;37,75;7,5;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;25,00%;0,00%;0,00%;25,00%;0,00%
+215;Chacras Ruta 7 2;Rural que no pertenece al sector;518,82;486,78;121,79;56,5;98,23%;0,00%;Tierra no apta;Agua de riego;Agua de red;8,33%;0,00%;0,00%;25,00%;0,00%
+216;Treorky 3;Rural que no pertenece al sector;672,34;569,30;26,23;67;85,07%;20,90%;Tierra no apta;Agua de red;Agua de red;26,09%;0,00%;4,35%;95,65%;0,00%
+217;Treorky 4;Rural que no pertenece al sector;851,87;769,31;121,17;92;98,91%;0,13%;Tierra no apta;Agua de riego;Agua de red;3,33%;0,00%;6,67%;26,67%;0,00%
+218;Chacras de Bethesda;Rural que no pertenece al sector;2.016,35;1.992,61;7,13;7;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;0,00%;0,00%
+219;Dolavon 3;Rural que no pertenece al sector;714,42;710,15;40,25;33;100,00%;0,00%;Tierra no apta;Agua de riego;Agua bidones;0,00%;0,00%;0,00%;0,00%;0,00%
+220;Chacras VIRCH Drofa Dulog;Rural que no pertenece al sector;904,15;875,32;89,72;169;94,67%;0,30%;Tierra no apta;Agua de riego;Agua de pozo;3,70%;0,00%;0,00%;25,93%;0,00%
+221;Santa Lucía 1;Sin datos;1.185,04;249,60;245,55;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+222;Las Lomas 1;Pequeña producción rural;1.037,70;720,99;644,30;213;47,42%;12,72%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;12,96%;0,00%;3,70%;1,85%
+225;Villa Aquino 1;Sin datos;588,05;221,67;113,37;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+228;Las Lomas 2;Sin datos;1.556,53;595,68;554,61;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+229;Las Lomas 3;Pequeña producción rural;701,87;420,03;410,75;111;52,25%;5,41%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;7,14%;0,00%;0,00%;0,00%
+230;Las Lomas 4;Sin datos;1.253,81;489,78;297,68;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+231;Las Lomas 5;Pequeña producción rural;817,62;445,93;292,92;87;34,48%;5,75%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+232;Las Lomas 6;Sin datos;1.586,47;421,02;242,11;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+233;Colonia Tres de Abril 1;Rural que no pertenece al sector;858,46;783,50;263,23;45,5;78,02%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;4,76%;23,81%;0,00%;19,05%;14,29%
+237;Santa Lucía 3;Rural que no pertenece al sector;576,40;512,35;196,68;22,5;35,56%;40,01%;Falta de capital;Agua de pozo;Agua de pozo;60,00%;40,00%;10,00%;100,00%;20,00%
+241;Cruz de los Milagros 2;Rural que no pertenece al sector;1.621,55;869,42;246,39;24,75;8,48%;74,22%;Falta de capital;Agua de pozo;Agua de pozo;85,00%;10,00%;10,00%;95,00%;5,00%
+242;Cruz de los Milagros 3;Pequeña producción rural;845,65;749,12;735,99;219,5;1,82%;44,76%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;3,33%
+244;Colonia Tres de Abril 3;Rural que no pertenece al sector;413,38;367,11;7,22;5,5;36,36%;0,00%;Tierra no apta;Agua de pozo;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+245;Colonia Tres de Abril 4;Pequeña producción rural;844,92;424,65;325,53;128;53,91%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+246;Colonia Tres de Abril 5;Pequeña producción rural;1.332,96;755,32;469,24;215;74,42%;3,26%;Falta de capital;Agua de pozo;Agua de pozo;1,82%;9,09%;0,00%;0,00%;7,27%
+252;Goya 1;Sin datos;1.084,19;131,38;131,38;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+253;Bella Vista 1;Pequeña producción rural;532,89;420,49;300,80;90;48,89%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;6,25%;43,75%;0,00%;6,25%;18,75%
+255;Barrio Esperanza;Pequeña producción rural;127,17;121,20;121,20;66,605;32,97%;0,01%;Falta de capital;Agua de pozo;Agua de red;25,00%;8,33%;8,33%;41,67%;0,00%
+256;Bella Vista 3;Sin datos;1.218,95;547,82;384,94;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+257;Bella Vista 2;Pequeña producción rural;451,22;334,22;192,18;143;54,55%;0,70%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;26,32%;0,00%;0,00%;5,26%
+258;Colonia Tres de Abril 6;Pequeña producción rural;1.201,86;1.003,30;819,53;293;46,42%;4,44%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+261;Centenario 1;Rural que no pertenece al sector;2.067,60;1.325,42;338,28;115,85;82,30%;0,43%;Falta de capital;Agua de riego;Agua de red;82,14%;10,71%;7,14%;89,29%;3,57%
+263;Neuquen;Sin datos;454,60;9,52;9,52;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+264;Plottier 8;Rural que no pertenece al sector;228,09;192,54;48,28;11;95,45%;0,00%;Barbecho;Agua de pozo;Agua de red;80,00%;20,00%;20,00%;60,00%;0,00%
+265;Plottier 6;Pequeña producción rural;300,24;250,15;88,35;8,75;100,00%;0,00%;Falta de capital;Agua de riego;Agua de red;66,67%;16,67%;33,33%;83,33%;0,00%
+267;Plottier 3;Rural que no pertenece al sector;1.036,43;562,99;166,99;25,5;90,90%;1,25%;Falta de capital;Agua de pozo;Agua de pozo;80,00%;40,00%;10,00%;80,00%;10,00%
+268;Plottier 5;Pequeña producción rural;378,42;190,24;82,55;7;100,00%;0,00%;Falta de capital;Agua de riego;Agua de pozo;40,00%;20,00%;0,00%;60,00%;0,00%
+269;Plottier 4;Rural que no pertenece al sector;288,13;259,22;20,72;14,5;55,17%;0,00%;Barbecho;Agua de pozo;Agua de pozo;100,00%;0,00%;0,00%;100,00%;0,00%
+270;Plottier 1;Rural sin producción;814,46;439,66;113,74;8,75;65,71%;0,00%;Falta de capital;Agua de riego;Agua de pozo;80,00%;40,00%;0,00%;80,00%;0,00%
+272;Plottier 2;Sin datos;792,81;50,20;50,20;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+273;Senillosa 3;Pequeña producción rural;470,53;394,50;266,32;31,2;33,33%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;72,73%;9,09%;0,00%;90,91%;0,00%
+275;Senillosa 2;Rural sin producción;1.345,56;883,22;106,39;6,01;66,56%;0,00%;Falta de capital;Agua de riego;Agua bidones;100,00%;0,00%;0,00%;100,00%;0,00%
+276;Senillosa 1;Rural que no pertenece al sector;1.481,85;1.096,75;147,14;35,7;24,09%;0,00%;Falta de capital;Agua de riego;Agua de pozo;75,00%;0,00%;0,00%;100,00%;25,00%
+279;San Patricio del Chañar 1;Sin datos;1.490,16;526,58;0,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+280;Vista Alegre 2;Pequeña producción rural;1.098,68;1.065,86;523,37;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;16,67%;5,56%;38,89%;50,00%;0,00%
+281;Vista Alegre 1;Pequeña producción rural;516,13;418,94;207,66;93,5;79,79%;1,07%;Falta de capital;Agua de riego;Agua de pozo;56,25%;12,50%;6,25%;75,00%;6,25%
+283;Centenario 2;Sin datos;1.112,93;467,40;320,92;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+288;La Trinidad;Rural que no pertenece al sector;1.278,07;1.207,02;190,83;108;95,37%;0,00%;Barbecho;Agua de riego;Agua bidones;72,73%;40,91%;13,64%;59,09%;63,64%
+290;Barrera al Oeste;Pequeña producción rural;22,32;21,56;21,56;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;100,00%;0,00%;100,00%;100,00%
+291;Barrera/Lipán;Pequeña producción rural;333,00;303,71;182,15;68,5;100,00%;0,00%;Barbecho;Agua de riego;Agua de red;0,00%;0,00%;0,00%;0,00%;20,00%
+293;Masacones/Gareca;Rural sin producción;151,59;145,74;55,77;11;100,00%;0,00%;Tierra no apta;Agua de riego;Otro;0,00%;0,00%;0,00%;0,00%;0,00%
+294;Peña Colorada 1;Rural que no pertenece al sector;620,86;590,88;41,50;20;100,00%;0,00%;Barbecho;Agua de pozo;Agua de pozo;0,00%;33,33%;0,00%;33,33%;50,00%
+297;Emilio Perez (entrada);Rural que no pertenece al sector;140,23;131,90;40,74;7;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de pozo;100,00%;0,00%;0,00%;100,00%;0,00%
+298;Camino a la vívora oeste;Rural que no pertenece al sector;174,12;166,73;54,06;155,25;36,88%;0,00%;Barbecho;Agua de riego;Agua bidones;85,71%;57,14%;0,00%;100,00%;42,86%
+299;Acceso/camino a la vívora;Rural que no pertenece al sector;1.398,11;1.114,10;39,38;21,5;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de canal;0,00%;40,00%;20,00%;40,00%;0,00%
+302;Urundel;Pequeña producción rural;203,19;187,58;147,89;6;100,00%;0,00%;Tierra no apta;Agua de canal;Agua comprada;50,00%;0,00%;0,00%;50,00%;0,00%
+303;Finca Santa Rosa;Pequeña producción rural;1.662,43;1.423,04;1.241,33;289,75;53,32%;28,30%;Falta de capital;Agua de riego;Agua de pozo;70,59%;11,76%;1,96%;17,65%;7,84%
+304;Ruta Vieja;Pequeña producción rural;1.042,42;959,72;902,75;147,8;37,89%;27,27%;Barbecho;Agua de riego;Agua de red;78,57%;54,76%;9,52%;38,10%;26,19%
+306;Finca Playa Grande;Pequeña producción rural;648,39;531,00;530,69;43;37,21%;24,42%;Falta de capital;Agua de riego;Agua de red;62,50%;25,00%;0,00%;37,50%;37,50%
+307;Finca Monasterio;Pequeña producción rural;627,60;576,36;515,46;98;59,69%;20,92%;Barbecho;Agua de riego;Agua de red;33,33%;77,78%;0,00%;61,11%;44,44%
+308;Ruta 39;Pequeña producción rural;7,59;6,82;6,82;5;100,00%;0,00%;Tierra no apta;Agua de canal;Agua bidones;100,00%;0,00%;0,00%;0,00%;0,00%
+309;La Isla;Rural que no pertenece al sector;208,60;201,96;87,52;39,5;100,00%;0,00%;Tierra no apta;Agua de canal;Otro;70,00%;0,00%;0,00%;70,00%;10,00%
+310;Daniel Gana/Mario Villa;Pequeña producción rural;374,51;373,43;292,87;110,5;95,02%;0,00%;Barbecho;Agua de riego;Agua de red;100,00%;64,29%;39,29%;75,00%;46,43%
+311;Finca Villaroel;Pequeña producción rural;203,62;195,68;122,29;37,5;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de red;88,89%;11,11%;22,22%;44,44%;11,11%
+312;Peña Colorada 3;Pequeña producción rural;539,25;513,50;360,15;172;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;0,00%;9,09%;81,82%;9,09%
+313;Lipan;Pequeña producción rural;475,07;459,74;252,80;132;92,05%;1,52%;Falta de capital;Agua de riego;Agua de pozo;57,14%;9,52%;0,00%;28,57%;19,05%
+314;Rio Pescado;Rural que no pertenece al sector;1.278,50;1.194,59;143,59;110;100,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;100,00%;66,67%
+315;Rio Pescado Banda Sur;Pequeña producción rural;365,63;348,41;268,20;177;100,00%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;77,78%;0,00%
+316;Rio Blanco;Pequeña producción rural;1.448,47;896,49;478,04;67;92,54%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;7,69%;0,00%;7,69%;0,00%
+317;El Cedral;Pequeña producción rural;526,42;417,38;248,38;37,3;81,77%;0,00%;Falta de capital;Agua de pozo;Agua de red;75,00%;100,00%;0,00%;62,50%;100,00%
+319;Palma Sola 1;Pequeña producción rural;1.499,81;1.010,37;1.010,37;209;45,45%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+320;Santa Clara;Sin datos;619,42;201,50;42,78;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+322;El Pongo;Pequeña producción rural;277,54;255,74;255,74;18;88,89%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;100,00%;0,00%;0,00%;100,00%
+323;Las Pampitas - Norte;Sin datos;624,15;242,77;242,77;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+323;Las Pampitas - Norte;Sin datos;624,15;242,77;242,77;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+324;Las Pampitas - Centro;Pequeña producción rural;1.799,34;1.761,67;1.556,46;272,2;95,59%;0,00%;Barbecho;Agua de riego;Agua de red;71,43%;0,00%;14,29%;0,00%;0,00%
+325;Las Pampitas - Sur;Pequeña producción rural;352,11;338,25;245,87;97;88,66%;0,03%;Barbecho;Agua de riego;Agua de red;11,11%;33,33%;22,22%;0,00%;11,11%
+326;Los Lapachos;Pequeña producción rural;1.055,91;1.042,46;1.012,07;300;89,83%;0,00%;Barbecho;Agua de riego;Agua de red;65,38%;11,54%;7,69%;11,54%;3,85%
+327;Pampa Blanca;Pequeña producción rural;286,08;279,40;263,26;23;100,00%;0,00%;Tierra no apta;Agua de riego;Agua de red;0,00%;0,00%;0,00%;38,89%;0,00%
+328;Los Manantiales;Pequeña producción rural;329,23;316,42;294,59;170,5;99,41%;0,00%;Barbecho;Agua de riego;Agua de red;4,35%;0,00%;13,04%;0,00%;4,35%
+329;Aguas Calientes;Pequeña producción rural;1.248,81;1.180,39;1.162,97;511;99,80%;0,00%;Tierra no apta;Agua de riego;Agua de red;58,11%;0,00%;6,76%;98,65%;0,00%
+330;El Mistol;Pequeña producción rural;1.450,45;1.164,47;1.164,47;545,5;83,87%;0,00%;Falta de capital;Agua de riego;Agua de red;17,11%;23,68%;25,00%;50,00%;0,00%
+331;Palma Sola 2;Pequeña producción rural;1.645,66;1.551,03;1.550,02;228;65,79%;0,00%;Tierra no apta;Agua de riego;Agua de red;31,82%;0,00%;1,52%;43,94%;0,00%
+332;Palma Sola 3;Pequeña producción rural;210,18;160,16;160,16;56;48,21%;0,00%;Tierra no apta;Agua de riego;Agua de red;18,75%;37,50%;43,75%;43,75%;0,00%
+333;Palma Sola 4;Pequeña producción rural;652,27;616,14;616,14;267;62,55%;0,00%;Tierra no apta;Agua de riego;Agua de red;81,25%;12,50%;12,50%;68,75%;0,00%
+334;Fraile Pintado - Norte;Pequeña producción rural;1.081,09;973,03;973,03;154;98,05%;0,03%;Barbecho;Agua de riego;Agua de red;39,47%;13,16%;2,63%;13,16%;5,26%
+335;Fraile Pintado - Centro;Sin datos;1.452,82;724,47;707,07;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+336;Fraile Pintado - Sur;Rural que no pertenece al sector;245,77;216,96;9,53;7;57,14%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;100,00%;0,00%;0,00%;0,00%;0,00%
+337;Chalicán;Pequeña producción rural;558,61;540,91;540,91;49;100,00%;0,00%;Tierra no apta;Agua de riego;Agua comprada;100,00%;100,00%;0,00%;0,00%;0,00%
+380;Viedma ruta 1;Pequeña producción rural;451,26;403,29;226,58;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;0,00%;0,00%
+382;IDEVI-Viedma 2;Rural que no pertenece al sector;1.665,72;1.509,56;108,46;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;20,00%;0,00%;20,00%;20,00%;0,00%
+385;IDEVI-Viedma 5;Rural que no pertenece al sector;1.002,60;850,51;187,02;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;33,33%;66,67%;0,00%;66,67%;66,67%
+386;El Juncal;Rural que no pertenece al sector;1.130,03;1.059,09;254,35;33,1;87,92%;0,00%;Falta de capital;Agua de riego;Agua comprada;0,00%;14,29%;0,00%;28,57%;14,29%
+388;San Javier 3;Rural que no pertenece al sector;869,22;790,67;289,15;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;100,00%;0,00%
+389;San Javier 1;Rural que no pertenece al sector;1.566,31;1.416,19;170,41;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;33,33%;66,67%;0,00%;66,67%;0,00%
+390;IDEVI-Viedma 3;Rural que no pertenece al sector;1.272,19;1.145,74;176,64;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;100,00%;0,00%
+391;IDEVI-Viedma 10;Rural que no pertenece al sector;808,93;748,98;91,89;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;0,00%;0,00%
+396;IDEVI-Viedma 9;Rural que no pertenece al sector;1.863,01;1.704,97;126,63;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;0,00%;0,00%
+397;Viedma 7;Rural que no pertenece al sector;1.594,42;1.456,61;231,66;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;25,00%;25,00%;50,00%;0,00%
+398;IDEVI-Viedma 1;Rural que no pertenece al sector;1.692,24;1.461,32;228,09;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;33,33%;0,00%;33,33%;33,33%
+409;IDEVI-Viedma 12;Rural que no pertenece al sector;729,01;646,76;214,42;17;76,47%;0,01%;Falta de capital;Agua de riego;Otro;100,00%;0,00%;20,00%;0,00%;40,00%
+414;IDEVI-Viedma 6;Rural que no pertenece al sector;1.592,64;1.496,18;351,76;33;81,82%;3,04%;Tierra no apta;Agua de riego;Otro;28,57%;42,86%;0,00%;14,29%;14,29%
+415;IDEVI-Viedma 8;Rural que no pertenece al sector;1.445,19;1.260,61;89,61;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;0,00%;0,00%
+455;Picada Guoica;Pequeña producción rural;876,06;840,29;840,29;74,5;67,11%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;33,33%;0,00%;33,33%;66,67%;33,33%
+456;Mondori 2;Pequeña producción rural;1.237,99;1.064,26;1.064,26;11;54,55%;0,00%;Barbecho;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;100,00%
+457;Picada 10;Pequeña producción rural;571,29;313,79;313,79;15;40,00%;0,00%;Barbecho;Agua de canal;Agua de pozo;0,00%;0,00%;0,00%;100,00%;0,00%
+458;Picada union;Pequeña producción rural;1.024,77;961,51;913,68;75,5;67,55%;0,66%;Falta de capital;Agua de pozo;Agua de pozo;7,69%;23,08%;0,00%;69,23%;15,38%
+462;Mondori 1;Sin datos;764,98;101,28;101,28;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+471;Santo Pipo 1;Rural que no pertenece al sector;888,90;610,43;48,26;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;100,00%;0,00%
+472;Santo Pipo 2;Pequeña producción rural;988,19;878,25;867,09;239;0,00%;0,00%;Falta de capital;Agua de pozo;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+473;Domingo Salvio 1;Rural que no pertenece al sector;1.183,00;991,59;183,25;7;85,71%;0,00%;Tierra no apta;Agua de pozo;Agua de red;0,00%;0,00%;0,00%;33,33%;0,00%
+474;Santa Rosa 3;Pequeña producción rural;1.082,10;986,40;600,25;247;2,23%;0,00%;Falta de capital;Agua de pozo;Agua de red;0,00%;0,00%;5,88%;2,94%;0,00%
+475;Santo Pipo 3;Pequeña producción rural;639,53;540,00;515,42;225;9,78%;0,00%;Barbecho;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+476;Roca Chica 1;Rural que no pertenece al sector;1.094,72;867,78;299,67;42,8;34,58%;1,64%;Falta de capital;Agua de canal;Agua de red;10,00%;5,00%;10,00%;50,00%;0,00%
+477;Colonia Yacutinga 1;Pequeña producción rural;859,42;764,48;422,18;71;9,86%;0,00%;Barbecho;Agua de red;Agua de aljibe;0,00%;0,00%;0,00%;0,00%;0,00%
+478;Santo Pipo 4;Rural que no pertenece al sector;592,04;507,05;0,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+479;Gobernador Roca 2;Rural que no pertenece al sector;1.248,49;1.212,36;179,53;39,5;40,51%;0,00%;Falta de capital;Agua de red;Otro;0,00%;0,00%;12,50%;75,00%;0,00%
+480;Roca Chica 2;Rural que no pertenece al sector;703,34;529,57;183,48;50;62,00%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;7,69%;0,00%;0,00%;0,00%;0,00%
+481;Domingo Salvio 2;Pequeña producción rural;849,14;824,19;452,44;20;52,50%;0,00%;Falta de capital;Agua de red;Agua de red;0,00%;0,00%;0,00%;100,00%;0,00%
+484;Santa Rosa 2;Pequeña producción rural;1.856,04;1.762,76;1.426,48;549;5,28%;0,00%;Barbecho;Agua de red;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+485;Colonia Yacutinga 2;Pequeña producción rural;1.375,05;1.348,38;1.307,87;302;6,95%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;1,67%;0,00%;0,00%;0,00%;0,00%
+486;Roca Chica 3;Pequeña producción rural;951,75;915,67;324,15;69,5;25,90%;0,00%;Falta de capital;Agua de red;Agua de red;0,00%;0,00%;5,88%;82,35%;0,00%
+487;Gobernador Roca 3;Rural que no pertenece al sector;842,95;773,84;0,26;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;100,00%;0,00%;100,00%;0,00%
+488;Corpus 1;Rural que no pertenece al sector;1.534,46;1.121,77;153,97;11;81,82%;18,18%;Falta de capital;Agua de red;Agua de red;0,00%;0,00%;0,00%;83,33%;0,00%
+489;Gobernador Roca 4;Rural que no pertenece al sector;1.891,20;1.771,54;518,45;2;100,00%;0,00%;Tierra no apta;Agua de red;Agua de pozo;100,00%;0,00%;0,00%;0,00%;0,00%
+490;Corpus 2;Rural que no pertenece al sector;940,62;550,59;95,97;14;100,00%;0,00%;Falta de capital;Agua de pozo;Agua de red;0,00%;16,67%;0,00%;66,67%;33,33%
+491;Santo Pipo 5;Rural que no pertenece al sector;1.078,17;1.071,40;222,50;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;0,00%;0,00%;50,00%;0,00%
+492;Gobernador Roca 5;Rural que no pertenece al sector;1.280,95;1.219,08;10,69;15,5;58,06%;5,81%;Falta de capital;Agua de red;Agua de red;75,00%;62,50%;0,00%;87,50%;37,50%
+493;Gobernador Roca 6;Rural que no pertenece al sector;1.015,30;838,27;221,27;29;85,34%;0,12%;Falta de capital;Agua de canal;Agua de red;60,00%;20,00%;0,00%;50,00%;0,00%
+494;Roca Chica 4;Rural que no pertenece al sector;1.230,01;1.185,54;269,48;19,5;48,72%;11,28%;Falta de capital;Agua de canal;Agua de red;0,00%;0,00%;0,00%;77,78%;0,00%
+495;Roca Chica 5;Rural que no pertenece al sector;694,05;642,10;170,78;23,4;44,87%;0,00%;Barbecho;Agua de canal;Agua de red;0,00%;0,00%;0,00%;66,67%;0,00%
+496;Gobernador Roca 7;Rural que no pertenece al sector;1.075,47;713,50;135,25;12;100,00%;0,00%;Falta de capital;Agua de red;Agua de red;100,00%;0,00%;0,00%;100,00%;0,00%
+497;Santo Pipo 6;Rural que no pertenece al sector;581,30;533,96;24,47;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;100,00%;0,00%
+498;Gobernador Roca 8;Rural que no pertenece al sector;1.098,87;994,10;96,06;19,5;53,85%;0,00%;Falta de capital;Agua de canal;Agua de red;0,00%;0,00%;0,00%;75,00%;0,00%
+499;Corpus 3;Rural que no pertenece al sector;1.214,47;965,85;173,81;13,5;51,85%;14,81%;Falta de capital;Agua de canal;Agua de red;12,50%;0,00%;12,50%;87,50%;0,00%
+500;Gobernador Roca 1;Rural que no pertenece al sector;1.183,90;743,85;0,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+502;Santo Pipo 7;Sin datos;576,57;188,80;0,00;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+503;Paraje La Canchita;Pequeña producción rural;1.177,97;1.131,64;1.097,77;135;71,11%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;7,14%;0,00%;7,14%;21,43%;21,43%
+504;Paraje la canchita porton viejo y piray;Sin datos;1.231,48;365,35;270,99;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+505;Puerto Libertad 1;Pequeña producción rural;301,54;288,14;253,61;78,46;68,67%;0,25%;Barbecho;Agua de pozo;Agua de pozo;100,00%;0,00%;0,00%;81,82%;0,00%
+506;Colonia Wanda 1;Rural que no pertenece al sector;372,49;351,98;82,85;30;56,67%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+507;Picada Verde;Sin datos;512,26;99,39;45,59;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+508;Olegario Andrade 1;Sin datos;734,95;170,14;83,80;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+509;Pozo Azul Centro;Pequeña producción rural;351,87;350,87;319,09;35;71,43%;0,14%;Barbecho;Agua de pozo;Agua de pozo;5,56%;22,22%;5,56%;61,11%;5,56%
+510;Centro 1;Sin datos;368,29;71,70;368,29;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+510;Centro 1;Pequeña producción rural;368,29;368,29;368,29;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;100,00%;0,00%
+511;Colonia Alemana 2;Sin datos;59,58;27,39;0,00;10;30,00%;0,00%;Barbecho;Agua de lluvia;Agua de pozo;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+513;Picada galitziana;Rural que no pertenece al sector;795,98;530,30;162,94;31;83,87%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;87,50%;0,00%;0,00%;62,50%;0,00%
+515;Colonia Wanda 2;Pequeña producción rural;794,76;611,45;356,15;134;64,93%;0,00%;Barbecho;Agua de pozo;Agua de pozo;4,35%;4,35%;0,00%;8,70%;13,04%
+516;Puerto Bosetti-Errecaborda;Pequeña producción rural;748,64;694,06;467,88;36;55,56%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;33,33%;0,00%;0,00%;33,33%;0,00%
+517;Puerto Libertad 2;Rural que no pertenece al sector;392,79;353,37;114,42;47;42,55%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;30,00%;10,00%;0,00%;0,00%;0,00%
+520;Santo Pipo 8;Rural que no pertenece al sector;1.123,55;996,16;93,27;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;0,00%;33,33%;0,00%
+521;General Roca 12;Rural que no pertenece al sector;712,39;673,31;241,50;50,5;87,13%;1,98%;Barbecho;Agua de pozo;Agua de pozo;90,00%;20,00%;50,00%;70,00%;10,00%
+525;General Roca 3;Rural que no pertenece al sector;890,13;890,13;246,27;22,5;55,56%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;90,00%;40,00%;10,00%;60,00%;20,00%
+526;General Roca 2;Rural que no pertenece al sector;1.795,97;1.666,34;525,14;86,6;61,20%;0,00%;Falta de capital;Agua de riego;Agua de pozo;20,00%;6,67%;6,67%;60,00%;13,33%
+527;General Roca 5;Rural que no pertenece al sector;1.429,07;1.346,68;193,03;54;85,19%;0,00%;Falta de capital;Agua de riego;Agua de pozo;57,14%;7,14%;14,29%;92,86%;7,14%
+529;General Roca 7;Rural que no pertenece al sector;645,60;587,42;189,45;26,5;100,00%;0,00%;Falta de capital;Agua de riego;Agua de pozo;0,00%;0,00%;0,00%;83,33%;0,00%
+530;General Roca 6;Rural que no pertenece al sector;622,84;537,03;92,95;11,5;95,65%;4,35%;Falta de capital;Agua de riego;Agua de pozo;40,00%;20,00%;0,00%;100,00%;0,00%
+531;General Roca 9;Rural que no pertenece al sector;1.708,58;1.587,91;582,61;166,5;66,61%;0,60%;Falta de capital;Agua de riego;Agua de pozo;28,57%;7,14%;14,29%;78,57%;0,00%
+532;General Roca 8;Rural sin producción;641,17;575,79;113,02;46;64,13%;0,00%;Falta de capital;Agua de riego;Agua de pozo;50,00%;12,50%;12,50%;75,00%;25,00%
+536;Cipolletti 1;Rural que no pertenece al sector;1.232,79;849,59;18,48;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;0,00%;100,00%;100,00%;0,00%
+538;Cipolletti 3;Sin datos;1.267,43;322,35;20,54;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos
+539;Ingeniero Huergo 2;Rural que no pertenece al sector;1.090,39;1.077,53;183,72;49,5;86,87%;0,00%;Tierra no apta;Agua de riego;Agua de red;100,00%;18,18%;9,09%;72,73%;27,27%
+540;Ingeniero Huergo 1;Rural que no pertenece al sector;373,49;325,89;70,15;9;11,11%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;100,00%;0,00%;0,00%;100,00%;0,00%
+542;General Roca 10;Rural que no pertenece al sector;501,68;389,59;18,89;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;0,00%;100,00%;100,00%;0,00%
+544;Ingeniero Huergo 3;Rural que no pertenece al sector;1.625,58;1.337,20;199,39;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;50,00%;6,25%;0,00%;31,25%;0,00%
+605;Recreo;Rural que no pertenece al sector;589,54;363,42;169,52;39;87,18%;0,00%;Barbecho;Agua de pozo;Agua de pozo;25,00%;0,00%;12,50%;87,50%;0,00%
+606;Monte Vera;Rural que no pertenece al sector;1.229,67;936,90;403,33;179;94,97%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;42,11%;18,42%;7,89%;15,79%;15,79%
+607;Helvecia 1;Rural que no pertenece al sector;1.120,47;996,82;307,81;106,1;100,00%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;3,33%;0,00%;0,00%;53,33%;0,00%
+608;Helvecia 2;Rural que no pertenece al sector;1.133,26;973,20;139,90;93;91,40%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;72,73%;0,00%
+609;Cayasta 2;Rural que no pertenece al sector;1.380,49;1.233,46;219,90;97;84,54%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;5,00%;0,00%;0,00%;25,00%;0,00%
+610;Cayasta 1;Rural que no pertenece al sector;498,01;399,23;117,51;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;0,00%;0,00%
+611;Cayasta 3;Rural que no pertenece al sector;263,10;218,17;10,77;2;50,00%;0,00%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+613;Santa Fe norte 1;Pequeña producción rural;582,44;403,04;204,65;106;94,34%;0,25%;Barbecho;Agua de pozo;Agua de pozo;100,00%;84,00%;92,00%;84,00%;40,00%
+614;Santa Fe norte 2;Rural que no pertenece al sector;1.954,70;1.088,74;418,09;195,5;94,12%;0,26%;Tierra no apta;Agua de pozo;Agua de pozo;67,65%;47,06%;23,53%;20,59%;11,76%
+615;Puerto Piray;Pequeña producción rural;1.340,59;1.199,49;586,46;99,5;71,56%;0,00%;Falta de capital;Agua de red;Agua de red;9,09%;36,36%;9,09%;45,45%;9,09%
+618;Autopista Lujan;Pequeña producción rural;29,03;26,69;26,69;21;100,00%;4,76%;Tierra no apta;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;100,00%;0,00%
+619;Carlos Keen;Pequeña producción rural;17,03;15,07;15,07;3,75;80,00%;13,34%;Barbecho;Agua de pozo;Agua de pozo;100,00%;100,00%;100,00%;0,00%;100,00%
+622;Lujan;Pequeña producción rural;25,27;15,72;15,72;8,5;89,41%;10,59%;Falta de capital;Agua de pozo;Agua de pozo;50,00%;0,00%;0,00%;100,00%;0,00%
+624;Cordón del Plata 3;Rural que no pertenece al sector;1.131,33;1.053,59;322,50;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;0,00%;100,00%;0,00%
+625;Las Violetas;Pequeña producción rural;1.959,07;1.724,38;738,64;440,47;35,93%;0,00%;Falta de capital;Agua de riego;Agua de red;13,95%;0,00%;1,16%;19,77%;0,00%
+626;Cordón del Plata 4;Rural que no pertenece al sector;1.909,71;1.816,09;455,91;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;60,00%;0,00%;20,00%;80,00%;0,00%
+627;Cordón del Plata 5;Rural que no pertenece al sector;621,39;599,00;86,48;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;100,00%;0,00%;50,00%;50,00%;0,00%
+628;Las Margaritas;Pequeña producción rural;1.612,16;1.431,65;628,70;267;24,76%;0,00%;Falta de capital;Agua de riego;Agua de red;14,58%;0,00%;2,08%;20,83%;0,00%
+629;Colonia Wanda 3;Pequeña producción rural;1.103,87;1.103,87;1.103,87;113;39,82%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;0,00%;0,00%;0,00%;0,00%;0,00%
+630;Almafuerte;Pequeña producción rural;207,81;165,35;105,65;53;89,62%;0,03%;Falta de capital;Agua de riego;Agua de pozo;50,00%;8,33%;0,00%;33,33%;8,33%
+631;Parque Industrial Pilar 1;Pequeña producción rural;512,26;405,70;348,05;103,554;81,84%;2,95%;Falta de capital;Agua de pozo;Agua de pozo;95,24%;23,81%;4,76%;90,48%;9,52%
+632;Parque Industrial Pilar 2;Pequeña producción rural;118,33;116,90;116,90;26,8;100,00%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;66,67%;0,00%;0,00%;66,67%;33,33%
+636;Tilcara;Pequeña producción rural;619,55;545,04;483,98;428,28;90,90%;0,00%;Barbecho;Agua de riego;Agua de red;38,20%;23,97%;11,99%;2,25%;10,86%
+637;Tunalito;Pequeña producción rural;86,72;86,72;77,72;48,5;88,66%;0,00%;Barbecho;Agua de riego;Agua de red;25,00%;0,00%;0,00%;25,00%;0,00%
+641;Saladas;Rural que no pertenece al sector;1.453,89;1.379,28;558,63;91;84,62%;0,00%;Falta de capital;Agua de pozo;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+698;Clodomira 2;Pequeña producción rural;1.494,53;1.051,58;731,37;312;66,35%;0,00%;Falta de capital;Agua de riego;Agua de red;9,76%;2,44%;0,00%;46,34%;14,63%
+700;Beltrán 1;Pequeña producción rural;1.827,68;1.759,16;1.350,32;146;74,66%;0,00%;Tierra no apta;Agua de riego;Agua comprada;97,50%;90,00%;0,00%;92,50%;52,50%
+702;Forres 2;Rural que no pertenece al sector;1.237,37;1.120,34;257,56;67;41,79%;0,00%;Falta de capital;Agua de riego;Agua de canal;12,50%;12,50%;0,00%;75,00%;12,50%
+711;Simbolar 1;Rural que no pertenece al sector;1.620,02;1.469,74;735,95;60;100,00%;0,00%;Falta de capital;Agua de riego;Agua de red;84,62%;0,00%;0,00%;61,54%;0,00%
+712;Simbolar 2;Pequeña producción rural;1.425,02;1.290,65;674,02;169;66,86%;0,00%;Falta de capital;Agua de riego;Agua de red;0,00%;0,00%;0,00%;18,18%;0,00%
+713;San Felipe;Pequeña producción rural;971,01;697,52;410,15;85;61,76%;0,00%;Falta de capital;Agua de riego;Agua de red;23,53%;5,88%;0,00%;58,82%;5,88%
+714;Bayo Muerto;Pequeña producción rural;990,70;741,53;512,23;248;64,52%;0,00%;Falta de capital;Agua de riego;Agua de red;10,00%;0,00%;0,00%;42,50%;0,00%
+722;Vilmer;Pequeña producción rural;545,90;470,66;462,41;129,82;74,76%;0,00%;Tierra no apta;Agua de riego;Agua de red;68,00%;72,00%;0,00%;88,00%;72,00%
+725;Forres 3;Rural que no pertenece al sector;1.059,58;945,31;323,08;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;27,27%;18,18%;63,64%;27,27%
+727;Forres 4;Pequeña producción rural;1.722,54;1.054,44;621,80;29;39,66%;0,00%;Falta de capital;Agua de red;Agua de red;0,00%;0,00%;0,00%;85,71%;0,00%
+728;Fernandez 1;Pequeña producción rural;1.443,70;744,49;596,09;150,75;71,97%;0,00%;Falta de capital;Agua de riego;Agua de red;87,10%;25,81%;6,45%;83,87%;12,90%
+782;Pavón;Pequeña producción rural;468,97;321,09;245,48;48,45;95,87%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;92,31%;76,92%;0,00%;76,92%;61,54%
+856;Ruta 31 norte;Pequeña producción rural;1.061,03;1.061,03;533,18;155,5;77,17%;0,00%;Tierra no apta;Agua de pozo;Agua de red;0,00%;0,00%;0,00%;0,00%;0,00%
+860;Ruta 31 sur;Pequeña producción rural;1.968,60;1.928,27;1.873,42;419;97,61%;11,06%;Falta de capital;Agua de pozo;Agua de pozo;59,18%;0,00%;4,08%;40,82%;0,00%
+921;Tunuyan 1;Rural que no pertenece al sector;1.081,16;765,02;256,32;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;33,33%;0,00%;0,00%;33,33%;66,67%
+922;Tunuyan 2;Rural que no pertenece al sector;1.751,15;978,19;165,12;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;0,00%;100,00%;0,00%;100,00%;0,00%
+926;Caa Catí;Pequeña producción rural;1.469,82;1.469,82;1.469,82;104;74,04%;0,00%;Falta de capital;Agua de pozo;Agua de pozo;89,29%;0,00%;3,57%;85,71%;39,29%
+928;San Miguel;Pequeña producción rural;1.361,73;1.002,01;872,75;337,65;86,38%;1,04%;Falta de capital;Agua de pozo;Agua de pozo;16,28%;32,56%;11,63%;47,67%;6,98%
+930;Contralmirante Cordero;Sin datos;325,19;135,08;88,75;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos;Sin datos

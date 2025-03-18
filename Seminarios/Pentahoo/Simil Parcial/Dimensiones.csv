@@ -1,0 +1,145 @@
+﻿jurisdiccion_id;jurisdiccion_desc;mes_observado;grupo_etario_id;grupo_etario;prestaciones_cantidad;prestaciones_importe
+2;CABA;202012;1;niños_y_niñas_0a5_años;102304;41402542
+2;CABA;202012;2;niños_y_niñas_6a9_años;13707;7794305
+2;CABA;202012;3;adolescentes_10a19_años;51782;15801165
+2;CABA;202012;4;adultos_20a64_años_mujeres;242525;63156492
+2;CABA;202012;5;adultos_20a64_años_hombres;95977;43036085
+2;CABA;202012;6;adultos_mas_65_años;4117;895375
+6;Buenos Aires;202012;1;niños_y_niñas_0a5_años;969527;153847245
+6;Buenos Aires;202012;2;niños_y_niñas_6a9_años;225489;36520225
+6;Buenos Aires;202012;3;adolescentes_10a19_años;834998;128738470
+6;Buenos Aires;202012;4;adultos_20a64_años_mujeres;3430176;541795550
+6;Buenos Aires;202012;5;adultos_20a64_años_hombres;1400931;193086940
+6;Buenos Aires;202012;6;adultos_mas_65_años;11557;1647355
+10;Catamarca;202012;1;niños_y_niñas_0a5_años;22911;3232540
+10;Catamarca;202012;2;niños_y_niñas_6a9_años;6014;854405
+10;Catamarca;202012;3;adolescentes_10a19_años;15882;2315365
+10;Catamarca;202012;4;adultos_20a64_años_mujeres;65511;8633900
+10;Catamarca;202012;5;adultos_20a64_años_hombres;13339;1948765
+10;Catamarca;202012;6;adultos_mas_65_años;162;26840
+14;Córdoba;202012;1;niños_y_niñas_0a5_años;552563;67894511
+14;Córdoba;202012;2;niños_y_niñas_6a9_años;56483;10838721
+14;Córdoba;202012;3;adolescentes_10a19_años;194185;36717768
+14;Córdoba;202012;4;adultos_20a64_años_mujeres;754814;160625899
+14;Córdoba;202012;5;adultos_20a64_años_hombres;300093;99856186
+14;Córdoba;202012;6;adultos_mas_65_años;14285;1927764
+18;Corrientes;202012;1;niños_y_niñas_0a5_años;178295;103319998
+18;Corrientes;202012;2;niños_y_niñas_6a9_años;31338;10580446.1
+18;Corrientes;202012;3;adolescentes_10a19_años;95802;29244488
+18;Corrientes;202012;4;adultos_20a64_años_mujeres;250234;80853578
+18;Corrientes;202012;5;adultos_20a64_años_hombres;99765;36521007
+18;Corrientes;202012;6;adultos_mas_65_años;386;691815
+22;Chaco;202012;1;niños_y_niñas_0a5_años;233419;71719803
+22;Chaco;202012;2;niños_y_niñas_6a9_años;20625;6073410
+22;Chaco;202012;3;adolescentes_10a19_años;92873;24688986
+22;Chaco;202012;4;adultos_20a64_años_mujeres;282457;66623522
+22;Chaco;202012;5;adultos_20a64_años_hombres;63970;18384685
+22;Chaco;202012;6;adultos_mas_65_años;8418;3525600
+26;Chubut;202012;1;niños_y_niñas_0a5_años;15809;4966102
+26;Chubut;202012;2;niños_y_niñas_6a9_años;1284;398440
+26;Chubut;202012;3;adolescentes_10a19_años;9067;2005257
+26;Chubut;202012;4;adultos_20a64_años_mujeres;51552;12490827
+26;Chubut;202012;5;adultos_20a64_años_hombres;9103;4272745
+26;Chubut;202012;6;adultos_mas_65_años;643;983670
+30;Entre Ríos;202012;1;niños_y_niñas_0a5_años;151684;22983677
+30;Entre Ríos;202012;2;niños_y_niñas_6a9_años;18700;4788272
+30;Entre Ríos;202012;3;adolescentes_10a19_años;85054;20515241
+30;Entre Ríos;202012;4;adultos_20a64_años_mujeres;297580;66437269
+30;Entre Ríos;202012;5;adultos_20a64_años_hombres;93913;19730519
+30;Entre Ríos;202012;6;adultos_mas_65_años;4308;1416508
+34;Formosa;202012;1;niños_y_niñas_0a5_años;76058;12207340
+34;Formosa;202012;2;niños_y_niñas_6a9_años;9331;1958600
+34;Formosa;202012;3;adolescentes_10a19_años;38614;6113990
+34;Formosa;202012;4;adultos_20a64_años_mujeres;104357;21652470
+34;Formosa;202012;5;adultos_20a64_años_hombres;21684;7085635
+34;Formosa;202012;6;adultos_mas_65_años;784;161675
+38;Jujuy;202012;1;niños_y_niñas_0a5_años;85572;25969438
+38;Jujuy;202012;2;niños_y_niñas_6a9_años;31449;9388330
+38;Jujuy;202012;3;adolescentes_10a19_años;78501;23406427
+38;Jujuy;202012;4;adultos_20a64_años_mujeres;378162;104656570
+38;Jujuy;202012;5;adultos_20a64_años_hombres;195953;76534590
+38;Jujuy;202012;6;adultos_mas_65_años;2918;2428120
+42;La Pampa;202012;1;niños_y_niñas_0a5_años;86467;7543565
+42;La Pampa;202012;2;niños_y_niñas_6a9_años;13395;1279044
+42;La Pampa;202012;3;adolescentes_10a19_años;55677;4566790
+42;La Pampa;202012;4;adultos_20a64_años_mujeres;328777;27175407
+42;La Pampa;202012;5;adultos_20a64_años_hombres;139594;10657263
+42;La Pampa;202012;6;adultos_mas_65_años;5264;473453
+46;La Rioja;202012;1;niños_y_niñas_0a5_años;47478;7201956
+46;La Rioja;202012;2;niños_y_niñas_6a9_años;9059;1309830
+46;La Rioja;202012;3;adolescentes_10a19_años;28700;3441150
+46;La Rioja;202012;4;adultos_20a64_años_mujeres;125281;21960482
+46;La Rioja;202012;5;adultos_20a64_años_hombres;45786;15779425
+46;La Rioja;202012;6;adultos_mas_65_años;1316;516410
+50;Mendoza;202012;1;niños_y_niñas_0a5_años;239938;28196119
+50;Mendoza;202012;2;niños_y_niñas_6a9_años;32583;5209250
+50;Mendoza;202012;3;adolescentes_10a19_años;96571;15509930
+50;Mendoza;202012;4;adultos_20a64_años_mujeres;326354;75751060
+50;Mendoza;202012;5;adultos_20a64_años_hombres;123637;36352210
+50;Mendoza;202012;6;adultos_mas_65_años;3024;627690
+54;Misiones;202012;1;niños_y_niñas_0a5_años;231956;59621651
+54;Misiones;202012;2;niños_y_niñas_6a9_años;28944;11154195
+54;Misiones;202012;3;adolescentes_10a19_años;110535;32781046
+54;Misiones;202012;4;adultos_20a64_años_mujeres;232592;69651470
+54;Misiones;202012;5;adultos_20a64_años_hombres;53662;16098325
+54;Misiones;202012;6;adultos_mas_65_años;363;510343
+58;Neuquén;202012;1;niños_y_niñas_0a5_años;82051;7940310
+58;Neuquén;202012;2;niños_y_niñas_6a9_años;7685;1837878
+58;Neuquén;202012;3;adolescentes_10a19_años;39121;7430189
+58;Neuquén;202012;4;adultos_20a64_años_mujeres;80280;25685807.6
+58;Neuquén;202012;5;adultos_20a64_años_hombres;30410;11951526
+58;Neuquén;202012;6;adultos_mas_65_años;1482;990796
+62;Río Negro;202012;1;niños_y_niñas_0a5_años;33082;9152932
+62;Río Negro;202012;2;niños_y_niñas_6a9_años;7292;2793453
+62;Río Negro;202012;3;adolescentes_10a19_años;28334;9826796
+62;Río Negro;202012;4;adultos_20a64_años_mujeres;118273;43623026
+62;Río Negro;202012;5;adultos_20a64_años_hombres;45731;23449638
+62;Río Negro;202012;6;adultos_mas_65_años;1063;431005
+66;Salta;202012;1;niños_y_niñas_0a5_años;133229;36420450
+66;Salta;202012;2;niños_y_niñas_6a9_años;8011;3592975
+66;Salta;202012;3;adolescentes_10a19_años;36546;12212589.23
+66;Salta;202012;4;adultos_20a64_años_mujeres;100712;38197623.8
+66;Salta;202012;5;adultos_20a64_años_hombres;29456;14924455
+66;Salta;202012;6;adultos_mas_65_años;370;106575.96
+70;San Juan;202012;1;niños_y_niñas_0a5_años;68193;44863492
+70;San Juan;202012;2;niños_y_niñas_6a9_años;9737;2714560
+70;San Juan;202012;3;adolescentes_10a19_años;43459;15011600
+70;San Juan;202012;4;adultos_20a64_años_mujeres;164640;37503419
+70;San Juan;202012;5;adultos_20a64_años_hombres;64877;14553917
+70;San Juan;202012;6;adultos_mas_65_años;1398;345385
+74;San Luis;202012;1;niños_y_niñas_0a5_años;33426;8536870
+74;San Luis;202012;2;niños_y_niñas_6a9_años;12673;1620105
+74;San Luis;202012;3;adolescentes_10a19_años;38405;5297035
+74;San Luis;202012;4;adultos_20a64_años_mujeres;91074;12865475
+74;San Luis;202012;5;adultos_20a64_años_hombres;55059;7325190
+74;San Luis;202012;6;adultos_mas_65_años;7763;1118880
+78;Santa Cruz;202012;1;niños_y_niñas_0a5_años;11155;3969463.7
+78;Santa Cruz;202012;2;niños_y_niñas_6a9_años;2546;726646.2
+78;Santa Cruz;202012;3;adolescentes_10a19_años;7878;2198825
+78;Santa Cruz;202012;4;adultos_20a64_años_mujeres;43957;13202601.32
+78;Santa Cruz;202012;5;adultos_20a64_años_hombres;17224;6479104.16
+78;Santa Cruz;202012;6;adultos_mas_65_años;302;106765.48
+82;Santa Fe;202012;1;niños_y_niñas_0a5_años;202793;37264716
+82;Santa Fe;202012;2;niños_y_niñas_6a9_años;12611;3319882
+82;Santa Fe;202012;3;adolescentes_10a19_años;65655;20506966
+82;Santa Fe;202012;4;adultos_20a64_años_mujeres;212587;88799648
+82;Santa Fe;202012;5;adultos_20a64_años_hombres;84885;34989294
+82;Santa Fe;202012;6;adultos_mas_65_años;4541;1488972
+86;Santiago del Estero;202012;1;niños_y_niñas_0a5_años;139575;37479600
+86;Santiago del Estero;202012;2;niños_y_niñas_6a9_años;25359;8500690
+86;Santiago del Estero;202012;3;adolescentes_10a19_años;94211;30513400
+86;Santiago del Estero;202012;4;adultos_20a64_años_mujeres;173234;50426320
+86;Santiago del Estero;202012;5;adultos_20a64_años_hombres;51540;18258486
+86;Santiago del Estero;202012;6;adultos_mas_65_años;158;498326
+90;Tucumán;202012;1;niños_y_niñas_0a5_años;405178;80431512.8
+90;Tucumán;202012;2;niños_y_niñas_6a9_años;33962;6203520
+90;Tucumán;202012;3;adolescentes_10a19_años;97646;17336585
+90;Tucumán;202012;4;adultos_20a64_años_mujeres;476352;88583539
+90;Tucumán;202012;5;adultos_20a64_años_hombres;183549;49040288
+90;Tucumán;202012;6;adultos_mas_65_años;1302;1012390
+94;Tierra del Fuego;202012;1;niños_y_niñas_0a5_años;1810;326720
+94;Tierra del Fuego;202012;2;niños_y_niñas_6a9_años;1183;228590
+94;Tierra del Fuego;202012;3;adolescentes_10a19_años;2183;402370
+94;Tierra del Fuego;202012;4;adultos_20a64_años_mujeres;7857;2056480
+94;Tierra del Fuego;202012;5;adultos_20a64_años_hombres;3272;1505880
+94;Tierra del Fuego;202012;6;adultos_mas_65_años;51;10540
